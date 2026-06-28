@@ -1,0 +1,5 @@
+horario,ip_cliente,porta_cliente,dominio,status,origem,resposta
+2026-06-28 19:54:39,127.0.0.1,56589,google.com,ENCONTRADO,TABELA,OK 142.250.190.78
+2026-06-28 20:02:23,127.0.0.1,62720,python.org,ENCONTRADO,TABELA,OK 151.101.0.223
+2026-06-28 20:04:27,127.0.0.1,60766,dominioinexistente.com,NAO ENCONTRADO,TABELA,ERRO dominio nao encontrado
+2026-06-28 20:05:24,127.0.0.1,60769,google.com,ENCONTRADO,CACHE,OK 142.250.190.78

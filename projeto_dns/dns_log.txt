@@ -1,0 +1,4 @@
+[2026-06-28 19:54:39] cliente=127.0.0.1:56589 dominio='google.com' status=ENCONTRADO origem=TABELA resposta='OK 142.250.190.78'
+[2026-06-28 20:02:23] cliente=127.0.0.1:62720 dominio='python.org' status=ENCONTRADO origem=TABELA resposta='OK 151.101.0.223'
+[2026-06-28 20:04:27] cliente=127.0.0.1:60766 dominio='dominioinexistente.com' status=NAO ENCONTRADO origem=TABELA resposta='ERRO dominio nao encontrado'
+[2026-06-28 20:05:24] cliente=127.0.0.1:60769 dominio='google.com' status=ENCONTRADO origem=CACHE resposta='OK 142.250.190.78'
