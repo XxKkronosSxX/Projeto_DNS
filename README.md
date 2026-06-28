@@ -166,14 +166,3 @@ ERRO dominio nao encontrado
 
 - Python 3;
 - biblioteca padrão do Python: `socket`, `threading`, `time`, `datetime`, `csv`, `os`.
-
----
-
-## 🔗 Links de entrega
-
-Preencher antes da entrega final:
-
-- GitHub público: COLE_AQUI_O_LINK_DO_REPOSITORIO
-- Vídeo demonstrativo: COLE_AQUI_O_LINK_DO_VIDEO
-
-Apenas o representante do grupo precisa enviar a entrega final, mas o repositório precisa estar público e com este README.md.
